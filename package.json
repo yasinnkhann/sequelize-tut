@@ -1,0 +1,19 @@
+{
+	"name": "sequelize-tut",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Yasin Khan <yasinkhan500@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"dev": "nodemon index.js"
+	},
+	"dependencies": {
+		"express": "^4.17.3",
+		"fs": "^0.0.1-security",
+		"mysql2": "^2.3.3",
+		"nodemon": "^2.0.15",
+		"path": "^0.12.7",
+		"sequelize": "^6.17.0",
+		"sequelize-cli": "^6.4.1"
+	}
+}
